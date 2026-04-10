@@ -16,3 +16,4 @@ It currently consists of these repositories:
 - [mcp](https://github.com/rhoai-genaiops/mcp) - MCP repository for Canopy.
 - [genaiops-helmcharts](https://github.com/rhoai-genaiops/genaiops-helmcharts) - The charts needed for the attendees to deploy outer loop components.
 - [genaiops-gitops](https://github.com/rhoai-genaiops/genaiops-gitops) - The app of apps, used to deploy and manage the components in genaiops-helmcharts.
+- [lab-runner](https://github.com/rhoai-genaiops/lab-runner) - App for fastforwarding the exercises.
