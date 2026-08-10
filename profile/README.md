@@ -8,6 +8,7 @@ Here you can find the enablement's technical exercises along with everything nee
 
 It currently consists of these repositories:
 - [lab-instructions](https://github.com/rhoai-genaiops/lab-instructions) - The GenAIOps instructions, rendered [here](https://rhoai-genaiops.github.io/lab-instructions/).
+- [genaiops-slides](https://github.com/rhoai-genaiops/genaiops-slides) - The slide decks
 - [deploy-lab](https://github.com/rhoai-genaiops/deploy-lab) - All scripts needed to set up the baseline environment.
 - [experiments](https://github.com/rhoai-genaiops/experiments) - Experimentation code and notebooks.
 - [evals](https://github.com/rhoai-genaiops/evals) - Evaluation automation for Canopy.
